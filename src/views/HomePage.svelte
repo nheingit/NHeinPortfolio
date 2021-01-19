@@ -14,7 +14,7 @@
 		<!--div Container for Right side-->
 		<div class='font-sans lg:w-1/2'>
 				<div class= 'bg-opacity-70 bg-true-blue sm:mt-8 lg:h-96'>
-				<div class='container flex justify-around pt-3 md:text-xl lg:text-2xl xl:text-3xl'>
+				<div class='container flex justify-around pt-3 m-0 md:text-xl lg:text-2xl xl:text-3xl'>
 					<a class='no-underline visited:text-black hover:no-underline' alt='link to homepage' href='/'>Home</a>
 					<a class='no-underline visited:text-black hover:no-underline' alt='link to about page' href='/'>About</a>
 					<!--Button needs to be updated to not go to google-->
@@ -23,7 +23,7 @@
 				<img class='relative pl-4 mx-auto pointer-events-none -top-16 md:h-96 md:py-5 md:w-2/3 md:object-cover md:object-center md:-top-0 lg:absolute lg:w-1/3 lg:h-3/5 lg:inset-y-40 lg:right-20' src='meImage.png' alt="Noah Hein">
 				<!--off-blue background for picture-->
 		</div>
-		<div class='flex justify-center my-2 align-middle lg:my-56'>
+		<div class='flex justify-center align-middle lg:my-56'>
 			<button class='p-2 px-20 my-3 text-lg text-white bg-yellow-400 focus:outline-none focus:ring-4 focus:ring-true-blue hover:bg-yellow-500 md:p-4 md:px-32 md:text-xl lg:w-64 lg:p-2 xl:p-5 xl:w-80 xl:ml-14'> HOW I CAN HELP</button>
 		</div>	
 		</div>
