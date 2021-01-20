@@ -21,7 +21,15 @@ module.exports = {
     extend: {
       backgroundImage: theme => ({
         "coding-computer": "url('/codingBackGround.svg')",
-        "meImage": "url('/meImage.png')"
+        "meImage": "url('/meImage.png')",
+        "office-background": "url('/officeBackground.svg')"
+      }),
+      height: theme => ({
+        "screen-4/5": "80vh",
+        "screen/2": "50vh",
+        "screen/3": "calc(100vh / 3)",
+        "screen/4": "calc(100vh / 4)",
+        "screen/5": "calc(100vh / 5)",
       }),
       colors: {
       'true-blue': '#9ac9ff',
