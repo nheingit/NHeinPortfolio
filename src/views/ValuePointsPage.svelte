@@ -1,7 +1,7 @@
 <div class='h-auto bg-true-blue'>
   <div class="container relative py-5">
     <img class='absolute left-0 bottom-14 h-4/5'src="downArrow.svg" alt="arrow pointing from avatar down to button">
-    <img class='relative z-10 w-56 ml-20 lg:w-80' src='gardenMe.png' alt='Noah with garden in background'>
+    <img class='relative w-56 ml-20 lg:w-80' src='gardenMe.png' alt='Noah with garden in background'>
     <div class="ml-20 mr-4 bg-gray-100 rounded-3xl">
       <p class='p-2 px-4 tracking-wider'> Hi I'm Noah!</p>
       <h1 class='p-2 px-4 font-serif text-xl font-bold lg:text-3xl'>I help solo entrepreneurs and startups grow their online business</h1>

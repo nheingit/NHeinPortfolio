@@ -16,7 +16,7 @@
 				<div class= 'bg-opacity-70 bg-true-blue sm:mt-8 lg:h-96 xl:h-screen/2'>
 				<div class='container flex justify-around pt-3 m-0 md:text-xl lg:text-2xl xl:text-3xl 2xl:text-4xl'>
 					<a class='no-underline visited:text-black hover:no-underline' alt='link to homepage' href='/'>Home</a>
-					<a class='no-underline visited:text-black hover:no-underline' alt='link to about page' href='/'>About</a>
+					<a class='no-underline visited:text-black hover:no-underline' alt='link to about page' href='/about'>About</a>
 					<!--Button needs to be updated to not go to google-->
 					<button type='button' onclick="location.href='https://google.com'" value='go to google' class='flex p-1 border-2 border-yellow-400 rounded hover:bg-yellow-400 hover:text-white out border-'>Say Hello <img class='py-1 mx-2 h-7' src='chatBox.svg' alt='chat box icon'> </button>	
 				</div>
