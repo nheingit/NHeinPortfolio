@@ -1,5 +1,5 @@
 <script>
+  import About1 from './aboutViews/About1.svelte';
 
 </script>
-<a href='/'>home</a>
-<h1>About Page</h1>
+<About1/>
