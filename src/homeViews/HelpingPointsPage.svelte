@@ -1,3 +1,6 @@
+<script>
+  
+</script>
 <div class='h-auto bg-gray-100'>
   <div class='container p-6 mx-auto text-center'>
     <div class='mx-4 mb-4'>
@@ -17,7 +20,7 @@
       </div>
       <div class='m-8'>
         <div>
-          <img class='mx-auto 2xl:h-36' src="paperIcon.svg" alt="icon of a pen and paper">
+            <img class='mx-auto 2xl:h-36' src="paperIcon.svg" alt="icon of a pen and paper">
           <p class='text-xl font-bold 2xl:text-4xl lg:text-2xl'>Develop</p>
         </div>
         <p class='lg:text-xl lg:pt-2 2xl:text-3xl'>I give you weekly updates on how our project is coming along</p>
