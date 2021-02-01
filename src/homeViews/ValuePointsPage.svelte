@@ -1,5 +1,5 @@
 <div class='h-auto bg-true-blue'>
-  <div class="container relative py-5">
+  <div class="container relative py-5 mx-auto">
     <img class='absolute left-0 bottom-14 h-4/5'src="downArrow.svg" alt="arrow pointing from avatar down to button">
     <img class='relative w-56 ml-20 lg:w-80' src='gardenMe.png' alt='Noah with garden in background'>
     <div class="ml-20 mr-4 bg-gray-100 rounded-3xl">

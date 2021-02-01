@@ -1,5 +1,5 @@
 <div class="bg-gray-100">
-  <div class="container py-8">
+  <div class="container py-8 mx-auto">
     <h4 class='pb-6 text-3xl text-center'>Hear what my clients have to say about me!</h4>
     <div class="p-20 rounded-full sm:px-20 bg-true-blue md:flex">
       <img class='mx-auto my-4 rounded-3xl sm:h-72 sm:my-auto md:mr-6' src='josephHead.jpg' alt='pic of joseph'>

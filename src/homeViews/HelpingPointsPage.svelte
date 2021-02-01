@@ -1,5 +1,5 @@
 <div class='h-auto bg-gray-100'>
-  <div class='container p-6 text-center'>
+  <div class='container p-6 mx-auto text-center'>
     <div class='mx-4 mb-4'>
     <h2 class='font-serif text-2xl font-bold sm:text-4xl lg:text-6xl lg:my-2 2xl:text-7xl'>What I can do to help</h2>
       <p class='text-xl sm:text-2xl lg:text-3xl 2xl:text-4xl'>You have a business, and I provide web applications, websites, and mobile applications for <span>your</span> needs</p>

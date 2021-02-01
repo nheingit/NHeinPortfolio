@@ -25,6 +25,12 @@ module.exports = {
         "meImage": "url('/meImage.png')",
         "office-background": "url('/officeBackground.svg')"
       }),
+      minHeight: theme => ({
+        "screen/2": "50vh"
+      }),
+      maxHeight: theme => ({
+        "1/2": "50%"
+      }),
       height: theme => ({
         "screen-4/5": "80vh",
         "screen/2": "50vh",
