@@ -21,7 +21,7 @@ module.exports = {
     extend: {
       backgroundImage: theme => ({
         "desktop-background": "url('/Desktop-Background.png')",
-        "coding-computer": "url('/codingBackGround.svg')",
+        "coding-computer": "url('/codingBackGround.jpeg')",
         "meImage": "url('/meImage.png')",
         "office-background": "url('/officeBackground.svg')"
       }),
