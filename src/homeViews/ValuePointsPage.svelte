@@ -9,6 +9,6 @@
       <p class='px-4 py-2'>Building this business is your mission, and you're ready to take it online</p>
       <p class='px-4 py-2'>I create websites that go from landing pages, and e-commerce, all the way to full service web applications that can even be published on the appstore!</p>
     </div>
-    <button onclick="location.href='about'" class='p-2 px-12 mt-16 mb-2 ml-20 text-lg text-white bg-yellow-400 focus:outline-none focus:ring-4 focus:ring-true-blue hover:bg-yellow-500'>More About Me</button>
+    <a href='about' class='p-2 px-12 mt-16 mb-2 ml-20 text-lg text-white bg-yellow-400 focus:outline-none focus:ring-4 focus:ring-true-blue hover:bg-yellow-500'>More About Me</a>
   </div>
 </div>
