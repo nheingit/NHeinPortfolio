@@ -4,7 +4,7 @@
   }
 </style>
 
-<div class='w-auto h-auto min-h-full bg-cover bg-desktop-background'>
+<div class='w-auto h-auto min-h-full bg-fixed bg-cover bg-desktop-background'>
   <div class='container p-10'>
     <div class='h-auto p-3 mt-6 bg-gray-100 lg:p-6 2xl:p-10'>
       <p class='tracking-widest text-gray-400'>I will say it so you don't have to:</p>
