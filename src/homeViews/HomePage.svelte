@@ -42,7 +42,7 @@ a:hover span::before {
 					<a class='no-underline visited:text-black hover:no-underline' alt='link to about page' href='/about'>
 						<span data-content='About' aria-hidden='true'></span>About</a>
 					<!--Button needs to be updated to not go to google-->
-					<a href="mailto:nheindev@gmail.com?subject=My Website&body=Hi Noah, I'd like to talk about my project!" target="_blank" rel="noopener noreferrer" value='Shoot me an Email' class='flex p-1 no-underline transition-all duration-700 ease-in border-2 border-yellow-400 rounded hover:border-black out border-'><span data-content='Say Hello' aria-hidden="true" class='pointer-events-none'></span>Say Hello <img class='py-1 mx-2 h-7' src='chatBox.svg' alt='chat box icon'> </a>
+					<a href="mailto:noahjhein@nhein.dev?subject=My Website&body=Hi Noah, I'd like to talk about my project!" target="_blank" rel="noopener noreferrer" value='Shoot me an Email' class='flex p-1 no-underline transition-all duration-700 ease-in border-2 border-yellow-400 rounded hover:border-black out border-'><span data-content='Say Hello' aria-hidden="true" class='pointer-events-none'></span>Say Hello <img class='py-1 mx-2 h-7' src='chatBox.svg' alt='chat box icon'> </a>
 				</div>
 				<img class='p-4 mx-auto pointer-events-none lg:relative lg:h-96 top-32' src='meImageDark.jpg' alt="Noah Hein">
 				<!--off-blue background for picture-->
