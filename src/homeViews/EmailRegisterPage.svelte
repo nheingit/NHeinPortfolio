@@ -55,7 +55,7 @@ a:hover span::before {
       <p>All For free!</p>
       <form action="" method="POST" role="form" class='md:px-20 md:flex'>
         <input type='text' bind:value={name} id='Name' name='fName' placeholder='First Name'>
-        <a href="mailto:noahjhein@nhein.dev?subject=Email Newsletter Subscription&body=Hi! My name is {name}, I would like to subscribe to your newsletter!"
+        <a href="mailto:me@nhein.dev?subject=Email Newsletter Subscription&body=Hi! My name is {name}, I would like to subscribe to your newsletter!"
          class='w-full p-4 m-2 text-xl text-center text-white no-underline transition duration-500 ease-in-out bg-yellow-400 border-2 border-yellow-400 hover:border-gray-100 hover:bg-true-blue md:mx-0'
           type='submit' value='Get It Now'><span data-content='Get It Now' aria-hidden='true'></span>
           Get It Now
